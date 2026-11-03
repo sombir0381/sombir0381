@@ -1,50 +1,98 @@
 
-<h1 align="center">Hi 👋, I'm Sombir</h1>
+<h1 align="center">Hi, I'm Sombir</h1>
 
-<h3 align="center">Flutter Developer | Mobile Application Developer</h3>
+<h3 align="center">Flutter Developer | Mobile Application Development</h3>
 
 <p align="center">
-  Building clean, scalable and user-friendly mobile applications with Flutter and Dart.
+  Developing responsive, user-friendly and maintainable mobile applications with Flutter and Dart.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sombir0381&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=sombir0381&label=Profile%20Views&color=6366F1&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- Flutter Developer focused on cross-platform mobile applications.
-- Passionate about building clean and responsive user interfaces.
-- Working with Provider for state management.
-- Interested in clean architecture and maintainable code.
-- Continuously learning and improving my development skills.
+I'm a Flutter Developer focused on building cross-platform mobile applications with a strong interest in clean UI development, application architecture and maintainable code.
 
-### 🛠️ Tech Stack
+- Developing mobile applications using Flutter and Dart.
+- Implementing state management using Provider.
+- Working with Firebase Authentication and backend integration.
+- Integrating REST APIs to handle application data.
+- Using SharedPreferences for local data persistence.
+- Building responsive interfaces with a focus on usability and consistency.
+- Continuously improving problem-solving and software development skills.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,java,js,git,github,androidstudio,vscode" />
+---
+
+### 🛠️ Technical Skills
+
+**Languages & Frameworks**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
 </p>
 
-### 📌 Areas of Interest
+**Tools & Platforms**
 
-- Mobile App Development
-- State Management
-- UI/UX Implementation
-- Firebase Integration
-- API Integration
-- Clean Architecture
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase,git,github,androidstudio,vscode" />
+</p>
 
-### 📊 GitHub Statistics
+**State Management & Storage**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sombir0381&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sombir0381&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+<p>
+  <img src="https://img.shields.io/badge/Provider-State%20Management-6366F1?style=flat-square" />
+  <img src="https://img.shields.io/badge/SharedPreferences-Local%20Storage-0D9488?style=flat-square" />
+</p>
+
+---
+
+### 🎯 Technical Focus
+
+- Cross-Platform Mobile Application Development
+- Flutter UI Development
+- State Management with Provider
+- Firebase Authentication
+- REST API Integration
+- Local Data Storage
+- Responsive UI Implementation
+- Application Debugging and Testing
+- Clean and Maintainable Code
+
+---
+
+### 🚀 Featured Projects
+
+**Expense Tracker**
+- Personal finance management application.
+- Transaction management and income/expense tracking.
+- State management using Provider.
+
+**AuthFlow**
+- Authentication application built with Flutter.
+- Firebase Authentication integration.
+- Login and registration functionality.
+
+**FoodieGo**
+- Recipe browsing application using Flutter.
+- REST API integration.
+- Provider-based state management.
+
+---
+
+### 📫 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/sombir0381">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <b>Building. Learning. Improving. 🚀</b>
+  <b>Building | Learning | Improving</b>
 </p>
